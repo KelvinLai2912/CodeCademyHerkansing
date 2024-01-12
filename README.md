@@ -7,6 +7,7 @@ Dit is een eenvoudige handleiding over hoe je deze repository kunt klonen en het
 Voordat je begint, zorg ervoor dat je aan de volgende vereisten hebt voldaan:
 
 * Je hebt de nieuwste versie van `git`  geïnstalleerd.
+* Je hebt de drivers `javafx-sdk-11.0.2` en `sqljdbc_11.2.1.0_enu` geïnstalleerd.
 
 ## De Repository Klonen
 
