@@ -9,6 +9,10 @@ Voordat je begint, zorg ervoor dat je aan de volgende vereisten hebt voldaan:
 * Je hebt de nieuwste versie van `git`  geïnstalleerd.
 * Je hebt de drivers `javafx-sdk-11.0.2` en `sqljdbc_11.2.1.0_enu` geïnstalleerd.
 
+## De database maken
+
+Je zal in de map DB2 beide sql bestanden moeten downloaden, voer als eerste de CreateDB en daarna de Database gegevens.
+
 ## De Repository Klonen
 
 Om de repository te klonen, volg je deze stappen:
